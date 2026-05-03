@@ -7,5 +7,7 @@ The purpose of this extension is to introduce a lightweight, 2-stage personaliza
 
 Together, these stages are meant to transform TokenSmith from a generic question answering tool to one that adapts to the user to be more helpful during a session.
 
+AI Usage: AI was used for syntax and ensuring best coding practices. It was used also to review architecture and question design choices through iterations.
+
 # Changes include adding a folder called project to the repository with files context.py and persona.py. Changes also include updates to src/main.py to include the running the project files under the run_chat_session method.
 
